@@ -45,7 +45,7 @@ export default function Home() {
         />
         <Box className="text-center md:text-left">
           <Typography variant="h3" className="text-white font-bold mb-2">
-            Hi, I'm Vishwanath 👋
+            Hi, I&apos;m Vishwanath 👋
           </Typography>
           <Typography variant="body1" className="text-white">
             Full-stack developer specializing in React.js, Flask, and

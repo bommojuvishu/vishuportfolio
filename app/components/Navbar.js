@@ -7,7 +7,7 @@ export default function Navbar() {
     <AppBar position="sticky">
       <Toolbar>
         <Typography variant="h6" sx={{ flexGrow: 1 }}>
-          Vishwanath's Portfolio
+          Vishwanath&#39;s Portfolio
         </Typography>
         <Button color="inherit" href="#home">
           Home
