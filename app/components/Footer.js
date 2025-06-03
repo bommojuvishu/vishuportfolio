@@ -4,18 +4,8 @@ import { Box, Typography } from "@mui/material";
 
 export default function Footer() {
   return (
-    <Box
-      component="footer"
-      sx={{
-        py: 3,
-        mt: 4,
-        borderTop: "1px solid #ccc",
-        textAlign: "center",
-      }}
-    >
-      <Typography variant="body2" color="text.secondary">
-        © 2025 Vishwanath. All rights reserved.
-      </Typography>
-    </Box>
+    <div className="flex justify-center items-center p-5 border-t border-gray-300 shadow-lg">
+      © 2025 Vishwanath. All rights reserved.
+    </div>
   );
 }
