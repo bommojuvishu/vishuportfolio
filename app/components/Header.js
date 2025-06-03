@@ -18,7 +18,7 @@ function Header() {
               src={profile}
               alt="vishwanath"
             />
-            <span className="px-2"> Vishwanath's Portfolio</span>
+            <span className="px-2"> Vishwanath&apos;s Portfolio</span>
           </div>
         </div>
         <div></div>
