@@ -6,10 +6,10 @@ import { FaLinkedin, FaTwitter, FaYoutube, FaGithub, FaBook } from 'react-icons/
 
 const SocialSidebar = () => (
     <div className="fixed top-1/3 left-4 flex flex-col gap-4">
-        <a href="#" className="text-gray-700 hover:text-black"><FaLinkedin size={24} /></a>
+        <a href="https://www.linkedin.com/in/vishwanathb/" className="text-gray-700 hover:text-black"><FaLinkedin size={24} /></a>
         {/* <a href="#" className="text-gray-700 hover:text-black"><FaTwitter size={24} /></a> */}
         {/* <a href="#" className="text-gray-700 hover:text-black"><FaYoutube size={24} /></a> */}
-        <a href="#" className="text-gray-700 hover:text-black"><FaGithub size={24} /></a>
+        <a href="https://github.com/bommojuvishu" className="text-gray-700 hover:text-black"><FaGithub size={24} /></a>
         {/* <a href="#" className="text-gray-700 hover:text-black"><FaBook size={24} /></a> */}
     </div>
 );
