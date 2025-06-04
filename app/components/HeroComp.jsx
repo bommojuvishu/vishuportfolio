@@ -17,7 +17,7 @@ const SocialSidebar = () => (
 const Hero = () => (
     <section className="flex flex-col justify-center items-center text-center min-h-screen bg-gradient-to-r from-gray-100 to-white">
         <h2 className="text-4xl md:text-6xl font-bold mb-4">HEY, I'M VISHWANATH </h2>
-        <p className="max-w-xl text-lg md:text-xl text-gray-700 mb-8">
+        <p className="max-w-xl text-lg md:text-xl text-gray-700 mb-8 px-4">
             A Result-Oriented Web Developer building and managing Websites and Web Applications that leads to the success of the overall product.
         </p>
         <a href="#projects" className="bg-purple-600 hover:bg-purple-700 text-white font-semibold px-6 py-3 rounded-lg shadow">
